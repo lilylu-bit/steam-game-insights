@@ -7,8 +7,11 @@ The project combines **Python-based data scraping and cleaning** with **explorat
 
 This project investigates several key questions:
 
-- X
-- Y
+- What genres are most common among the top-selling Steam games?
+- Are certain genres more likely to achieve higher rankings than others?
+- Is there a relationship between percentage of positive user ratings and ranking position?
+- To what extent do price and rating percentage explain variation in game rankings?
+- How do ranking patterns and performance drivers differ between top sellers and popular new releases?
 
 ## ⚙️ Project Structure
 ```
